@@ -7,6 +7,7 @@ public class Runner {
         System.out.println("version 2 nin devami");
 
         System.out.println("version v5");
+        System.out.println("deneme push and pull");
 
     }
 }
